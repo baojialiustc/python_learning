@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb88a13c-b950-4616-be48-2df86e5595dc" name="Default Changelist" comment="learn decorator and create decorator file">
-      <change afterPath="$PROJECT_DIR$/threading_learn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learning.iml" afterDir="false" />
+    <list default="true" id="bb88a13c-b950-4616-be48-2df86e5595dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator_and_iterable.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/generator_and_iterable.ipynb" afterDir="false" />
     </list>
     <list id="317695c6-7e58-4a15-bda2-d26b49523ffc" name="Created_files_lbj" comment="learn decorator and create decorator file" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +103,7 @@
       <workItem from="1575961145936" duration="1069000" />
       <workItem from="1576061373564" duration="2381000" />
       <workItem from="1576254428287" duration="678000" />
-      <workItem from="1576307965787" duration="348000" />
+      <workItem from="1576307965787" duration="5922000" />
     </task>
     <task id="LOCAL-00001" summary="learn decorator and create decorator file">
       <created>1573738758693</created>
@@ -117,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573738758694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learn decorator and create decorator file">
+      <created>1576308563611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576308563611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -135,9 +137,20 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -148,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learn decorator and create decorator file" />
     <option name="LAST_COMMIT_MESSAGE" value="learn decorator and create decorator file" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
